@@ -5,10 +5,7 @@ import TodoList from './components/todo-list/todo-list.component';
 function App() {
   return (
     <div className="App">
-      <h1>
-        React Js App
-      </h1>
-      <TodoList></TodoList>
+        A react based social media platform is coming soon
     </div>
   );
 }
