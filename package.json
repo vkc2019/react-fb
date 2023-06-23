@@ -1,7 +1,7 @@
 {
   "name": "todo-react",
   "version": "0.1.0",
-  "homepage": "https://vkc2019.github.io/rect-js",
+  "homepage": "https://vkc2019.github.io/rect-fb",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
