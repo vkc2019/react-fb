@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rect-fb/static/css/main.38c0753e.css",
-    "main.js": "/rect-fb/static/js/main.d1380678.js",
-    "static/js/787.7b5a45f4.chunk.js": "/rect-fb/static/js/787.7b5a45f4.chunk.js",
-    "static/media/logo.svg": "/rect-fb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/rect-fb/index.html",
-    "main.38c0753e.css.map": "/rect-fb/static/css/main.38c0753e.css.map",
-    "main.d1380678.js.map": "/rect-fb/static/js/main.d1380678.js.map",
-    "787.7b5a45f4.chunk.js.map": "/rect-fb/static/js/787.7b5a45f4.chunk.js.map"
+    "main.css": "/react-fb/static/css/main.38c0753e.css",
+    "main.js": "/react-fb/static/js/main.8d394a32.js",
+    "static/js/787.7b5a45f4.chunk.js": "/react-fb/static/js/787.7b5a45f4.chunk.js",
+    "static/media/logo.svg": "/react-fb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-fb/index.html",
+    "main.38c0753e.css.map": "/react-fb/static/css/main.38c0753e.css.map",
+    "main.8d394a32.js.map": "/react-fb/static/js/main.8d394a32.js.map",
+    "787.7b5a45f4.chunk.js.map": "/react-fb/static/js/787.7b5a45f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38c0753e.css",
-    "static/js/main.d1380678.js"
+    "static/js/main.8d394a32.js"
   ]
 }
