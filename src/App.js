@@ -1,11 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
-import TodoList from './components/todo-list/todo-list.component';
+import "./App.css";
+import MessageSearchBar from "./components/MessageSearchBar";
+import ProfileOptionHeader from "./components/ProfileOptionHeader";
+import MessageList from "./components/message-list/MessageList";
+import UserListLayout from "./components/user-listing/UserListLayout";
 
 function App() {
   return (
-    <div className="App">
-        A react based social media platform is coming soon
+    <div className="wa-layout">
+      <ProfileOptionHeader className="wa-profile-options" />
+      <MessageSearchBar className="wa-message-search" />
+      <UserListLayout className="wa-users" />
+      <MessageList className="wa-message-details" />
     </div>
   );
 }
